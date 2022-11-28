@@ -1,3 +1,11 @@
 body{
     background-color: brown;
+    background-image: url(../../../image/logo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.btn{
+    background-color:   #19B3E6;
+    color: #fff;
+    font-size: 1.8em;
 }
